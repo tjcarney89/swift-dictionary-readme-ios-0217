@@ -12,7 +12,7 @@
 let name: String = "Theodore Roosevelt"
 ```
 * Explain that a *dictionary* stores associations between keys of the same type and values of the same type in a collection with no defined ordering (from apple doc.).
-* Explain why they are using a dictionary. You use a dictionary when you need to look up values based on their identifier similar to how yo use a real-word dictionary to look up the definition for a particular word.
+* Explain why they are using a dictionary. You use a dictionary when you need to look up values based on their identifier similar to how you use a real-word dictionary to look up the definition for a particular word.
 
 ## Dictionaries
 
@@ -163,3 +163,5 @@ That's enough about dictionaries for now. In future lessons, you'll learn a lot 
 ![Shia LeBeouf clapping](https://s3.amazonaws.com/learn-verified/shia-lebeouf-applause.png)
 
 <a href='https://learn.co/lessons/Dictionary' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-dictionary-readme'>Dictionary</a> on Learn.co and start learning to code for free.</p>
