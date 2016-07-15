@@ -48,7 +48,7 @@ The syntax looks similar because a `Dictionary` shares a lot of similarities wit
 
 Dictionaries have similar limits. In a `Dictionary`, all of the _keys_ have to be the same type, and all of the _values_ have to be the same type. Keys need not be the same type as values, though. For example, keys could be `Int`s and values could be `String`s, and that would be fine.
 
-You can get a sense of this by examing what Xcode reports as the type of a variable. In your playground, <kbd>Option</kbd>-click on your `favoriteWords` variable. You'll see this popup:
+You can get a sense of this by examining what Xcode reports as the type of a variable. In your playground, Option-click on your `favoriteWords` variable. You'll see this popup:
 
 ![Dictionary type](https://s3.amazonaws.com/learn-verified/dictionary-type.png)
 
@@ -91,7 +91,7 @@ var definition = favoriteWords["rigmarole"]
 
 Here, `definition` will be a `String`.
 
-Or wait...no. Take another look. `definition` isn't actually a `String`; it's an _optional_ `String` (that is, it is of type `String?`). You can confirm this by <kbd>Option</kbd>-clicking on it:
+Or wait...no. Take another look. `definition` isn't actually a `String`; it's an _optional_ `String` (that is, it is of type `String?`). You can confirm this by Option-clicking on it:
 
 ![Optional `String`](https://s3.amazonaws.com/learn-verified/dictionary-optional.png)
 
@@ -158,6 +158,5 @@ That's enough about dictionaries for now. In future lessons, you'll learn a lot 
 
 ![Shia LeBeouf clapping](https://s3.amazonaws.com/learn-verified/shia-lebeouf-applause.png)
 
-<a href='https://learn.co/lessons/Dictionary' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/swift-dictionary-readme'>Dictionary</a> on Learn.co and start learning to code for free.</p>
