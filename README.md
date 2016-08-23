@@ -4,11 +4,16 @@
 
 > When you're at the end of your rope, tie a knot and hold on. -[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt)
 
+
+## Overview
+
+In this lesson, we'll cover dictionaries, an important data tructure in Swift. 
+
 ## Learning Objectives
 
-* Explain that a `Dictionary` is a type
 * Explain that a *dictionary* stores associations between keys of the same type and values of the same type in a collection with no defined ordering 
-* Explain why they are using a dictionary. You use a dictionary when you need to look up values based on their identifier similar to how you use a real-word dictionary to look up the definition for a particular word.
+* Describe the syntax of dictionaries
+* Create and access elements in dicitonaries 
 
 ## Dictionaries
 
