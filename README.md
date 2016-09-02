@@ -7,7 +7,7 @@
 
 ## Overview
 
-In this lesson, we'll cover dictionaries, an important data tructure in Swift. 
+In this lesson, we'll cover dictionaries, an important data structure in Swift. 
 
 ## Learning Objectives
 
