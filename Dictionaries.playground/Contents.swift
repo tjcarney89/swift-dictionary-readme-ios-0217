@@ -5,7 +5,7 @@ var favoriteWords = [
     "wabbit": "weary, exhausted",
 ]
 
-var numberWords = [1: "one"]
+var numberWords = [2: "two"]
 
 var definition = favoriteWords["rigmarole"]
 
